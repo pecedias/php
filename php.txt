@@ -1,0 +1,19 @@
+HTTPD.CONF - apache
+PHP.ini - php
+
+PORTAS
+apache: 80, 443
+mysql = 3306
+
+CLIENTE SERVIDOR
+cliente(você) -- request(pedido) >> << response(resposta) -- funcionário(php)--servidor(loja) * devolve em html
+
+git config --global user.name "Paulo Dias"
+git config --global user.email "pc_dias@live.com"
+git push origin master
+git remote add origin https://
+git pull origin master
+
+git add --all
+git commit -m ""
+git push origin master

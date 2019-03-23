@@ -1,0 +1,26 @@
+# Orientação a Objeto é um estilo de programação
+
+# Classe é como Caixa, o que importa é o que está dentro dela
+
+ # Variaveis dentro de classes são chamados de atributos, e ganham alguns recursos a mais,
+ que é chamado de encapsulamento(quem pode ou não falar com as variaveis)
+
+ # Funções dentro de classes também ganham alguns recursos, e são chamadas de métodos
+
+ # Uma classe é um conjunto de atributos(armazenar) e métodos(executar)
+
+ # Instância é quando efetivamente vai se usar a classe
+
+ # Objeto é uma variavel que representa uma classe (processo chamado de instância)
+
+ # Função estática não precisa criar um objeto para instanciar a classe, e assim também 
+ podendo chamá-la dentro da classe
+
+ # Sempre que tiver __ dentro de uma classe, é um método construtor (mágico).
+
+# É sempre o filho que herda informações da Classe Pai
+
+# A diferença de abstrata para interface é que abstrata não se pode instanciar a classe pai, 
+tem que criar uma classe filha para instanciar
+
+# Polimorfismo é ter métodos com o mesmo nome na classe pai e classe filha, que fazem coisas distintas
